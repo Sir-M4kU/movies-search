@@ -28,7 +28,13 @@ header h1 {
 
 form {
   display: flex;
+  flex-direction: column;
   gap: 8px;
+  align-items: center;
+}
+
+form div {
+  display: flex;
   align-items: center;
 }
 

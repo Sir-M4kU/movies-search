@@ -1,3 +1,3 @@
-# React + Vite
+# Movies finder using omdbapi
 
-`http://www.omdbapi.com/?apikey=${yourkey}&`
+Movies finder created as practice project using React + Vite
